@@ -14,6 +14,16 @@ import outside2 from "@/assets/outside-2.jpg";
 import hero from "@/assets/hero.jpg";
 import food1 from "@/assets/food-1.jpg";
 import food2 from "@/assets/food-2.jpg";
+import food3 from "@/assets/food-3.jpg";
+import food4 from "@/assets/food-4.jpg";
+import food5 from "@/assets/food-5.jpg";
+import food6 from "@/assets/food-6.jpg";
+import food7 from "@/assets/food-7.jpg";
+import food8 from "@/assets/food-8.jpg";
+import food9 from "@/assets/food-9.jpg";
+import food10 from "@/assets/food-10.jpg";
+import food11 from "@/assets/food-11.jpg";
+import food12 from "@/assets/food-12.jpg";
 
 const galleryImages = [
   { src: hero, alt: "Church Street Gourmet exterior with colonial arches", category: "Exterior" },
@@ -26,6 +36,16 @@ const galleryImages = [
   { src: outside2, alt: "Street view of the restaurant", category: "Exterior" },
   { src: inside5, alt: "Tropical garden courtyard", category: "Interior" },
   { src: inside2, alt: "Main dining hall with antique wheel decoration", category: "Interior" },
+  { src: food3, alt: "Fresh green smoothie with tropical vibes", category: "Food" },
+  { src: food4, alt: "Roasted vegetables with aioli dip", category: "Food" },
+  { src: food5, alt: "Seafood platter with grilled prawns and calamari", category: "Food" },
+  { src: food6, alt: "Grilled chicken with rice and fresh salad", category: "Food" },
+  { src: food7, alt: "Seared tuna steak with mango sauce", category: "Food" },
+  { src: food8, alt: "Wraps and grilled fish on turquoise table", category: "Food" },
+  { src: food9, alt: "Prawn curry with basmati rice", category: "Food" },
+  { src: food10, alt: "Penne arrabiata with tacos", category: "Food" },
+  { src: food11, alt: "Fresh juices and breakfast spread", category: "Food" },
+  { src: food12, alt: "Prawn pasta with parmesan", category: "Food" },
 ];
 
 const categories = ["All", "Interior", "Exterior", "Food"];
